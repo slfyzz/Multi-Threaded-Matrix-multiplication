@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1605622363 source:/home/mahmoud/OS_projects/matrixMultiplication/matMulp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+	<string.h>
+	<sys/time.h>
+	"MatrixStruct.h"
+	"print.h"
+	"MatrixMultiplication.h"
+
+1605530183 /home/mahmoud/OS_projects/matrixMultiplication/matMulp/MatrixStruct.h
+
+1605618885 source:/home/mahmoud/OS_projects/matrixMultiplication/matMulp/print.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"print.h"
+
+1605539178 /home/mahmoud/OS_projects/matrixMultiplication/matMulp/print.h
+	<stdbool.h>
+	"MatrixStruct.h"
+
+1605538676 /home/mahmoud/OS_projects/matrixMultiplication/matMulp/MatrixMultiplication.h
+	"MatrixStruct.h"
+
+1605618506 source:/home/mahmoud/OS_projects/matrixMultiplication/matMulp/MatrixMultiplication.c
+	"MatrixMultiplication.h"
+	<pthread.h>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
